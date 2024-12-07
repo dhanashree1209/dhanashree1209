@@ -12,7 +12,7 @@ Databases: MySQL
 Tools: Git, GitHub, VS Code
 
 🌱 What I’m working on right now:
-Currently building [specific project] to deepen my understanding of [tech you're learning]. I'm particularly focused on improving my skills in [specific framework/technology] and looking forward to contributing to real-world projects.
+Currently building Event Management Website to deepen my understanding of HTML,CSS, JavaScript,ReactJs. I'm particularly focused on improving my skills in Front End development and looking forward to contributing to real-world projects.
 
 📚 Why I Code:
 I believe in the power of technology to solve problems and improve lives. From small personal projects to large-scale applications, I love creating software that makes a positive impact. My passion for coding comes from the endless opportunities to learn and evolve, which keeps me excited about the field every single day.
