@@ -6,8 +6,8 @@ I'm actively seeking exciting job opportunities where I can apply my knowledge, 
 
 🔧 Technologies I’m currently working with:
 
-Frontend: React, HTML, CSS, JavaScript, TypeScript
-Backend: Node.js, Java
+Frontend:  HTML, CSS, JavaScript
+Backend: Java
 Databases: MySQL
 Tools: Git, GitHub, VS Code
 
