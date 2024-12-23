@@ -1,4 +1,4 @@
-👨‍💻Full Stack Java Developer | 🌱 Continuous Learner | 🔍 Actively Seeking Job Opportunities
+👨‍💻Front End Developer | 🌱 Continuous Learner | 🔍 Actively Seeking Job Opportunities
 
 Hello! I'm Dhanshree P. Wadichar, a passionate and driven software developer always eager to expand my skills and tackle new challenges. I'm currently on a journey to grow as a developer, with a strong focus on full-stack development.
 
